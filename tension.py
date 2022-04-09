@@ -11,7 +11,7 @@ cm = 1e-2  # m
 g = 1e-3  # kg
 
 # Constants.
-density = 7.9 * g / cm ** 3 # Of stainless steel.
+density = 7.9 * g / cm**3  # Of stainless steel.
 
 
 def frequency(tension, length, gauge):
